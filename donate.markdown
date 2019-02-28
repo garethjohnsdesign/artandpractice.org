@@ -28,4 +28,4 @@ layout: donate
 **Your support enables us to continue our work to connect Los Angeles 
 through art, discourse, and critical resources.**
 
-**FOSTER ART + PRACTICE. Make a tax-deductible donation today**
+**FOSTER ART + PRACTICE. Make a tax-deductible donation today.**
