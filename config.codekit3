@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -77,202 +84,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "/.sass-cache/40faf18555c9ac0404768f5760112d3617dc32ef/_subscribe.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_about.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_about.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_annual-catalogues.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_annual-catalogues.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_art-vs-practice.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_art-vs-practice.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_board.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_board.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_contact.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_contact.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_donate.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_donate.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_education.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_education.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_home.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_home.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_subscribe.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/71a14a3e7c0e292e1889f39c824f7191dcbc4350/_subscribe.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_announcement.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_announcement.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_buttons.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_buttons.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_carousel.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_carousel.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_dividers.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_dividers.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_exhibitions.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_exhibitions.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_fonts.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_fonts.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_footer.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_footer.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_general.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_general.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_headers.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_headers.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_images.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_images.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_navigation.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_navigation.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_news.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_news.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_paginator.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_paginator.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_public-programs.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_public-programs.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_side-nav.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_side-nav.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_tabs.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_tabs.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_text.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_text.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_toolbox.sassc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_toolbox.sassc",
-		"oF": 0
-		},
-	"/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_variables.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/.sass-cache/b1923e0ba28ea5a10c5a0a188e1f0387711ed8ec/_variables.scssc",
 		"oF": 0
 		},
 	"/.sass-cache/f3ac92694e5f90afd9c32d434360b1914371456e/_announcement.scssc": {
@@ -13172,6 +12983,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/Gemfile.lock",
+		"oF": 0
+		},
+	"/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/humans.txt",
 		"oF": 0
 		},
 	"/index.markdown": {
